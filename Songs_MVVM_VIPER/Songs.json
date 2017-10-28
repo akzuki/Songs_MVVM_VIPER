@@ -1,0 +1,30 @@
+[
+    {
+    "id": 1,
+    "name": "Despacito",
+    "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
+    "url": "https://i.ytimg.com/vi/kJQP7kiw5Fk/maxresdefault.jpg",
+    "lyrics": "Comin' over in my direction\nSo thankful for that, it's such a blessin', yeah\nTurn every situation into heaven, yeah\nOh-oh, you are\nMy sunrise on the darkest day\nGot me feelin' some kind of way\nMake me wanna savor every moment slowly, slowly\nYou fit me tailor-made, love how you put it on\nGot the only key, know how to turn it on\nThe way you nibble on my ear, the only words I wanna hear\nBaby, take it slow so we can last long"
+    },
+    {
+    "id": 2,
+    "name": "Perfect",
+    "artist": "Ed Sheeran",
+    "url": "https://i.ytimg.com/vi/NDTBDYRW2cU/maxresdefault.jpg",
+    "lyrics": "I found a love for me\nDarling just dive right in\nAnd follow my lead\nWell I found a girl beautiful and sweet\nI never knew you were the someone waiting for me\n'Cause we were just kids when we fell in love"
+    },
+    {
+    "id": 3,
+    "name": "Shape of you",
+    "artist": "Ed Sheeran",
+    "url": "https://dailypost.in/wp-content/uploads/2017/08/ed-sheeran-shape-of-you.jpg",
+    "lyrics": "The club isn't the best place to find a lover\nSo the bar is where I go\nMe and my friends at the table doing shots\nDrinking fast and then we talk slow"
+    },
+    {
+    "id": 4,
+    "name": "Thunder",
+    "artist": "Imagine Dragons",
+    "url": "https://i.ytimg.com/vi/qliTMGXzFPY/maxresdefault.jpg",
+    "lyrics": "Just a young gun with a quick fuse\nI was uptight, wanna let loose\nI was dreaming of bigger things\nAnd wanna leave my own life behind"
+    },
+]
