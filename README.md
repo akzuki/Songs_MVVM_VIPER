@@ -7,10 +7,10 @@ This project also covers Unit Tests, Storyboard, Nibs and programmatic UIs.
 
 ## Screenshots
 `Login`: MVVM-C & RxSwift. Storyboard
-![alt tag](https://github.com/akzuki/Songs_MVVM_VIPER/blob/master/Screenshots/login.png)
+<img src="https://github.com/akzuki/Songs_MVVM_VIPER/blob/master/Screenshots/login.png" height="400">
 
 `ListSong` VIPER. Programmatic UIs
-![alt tag](https://github.com/akzuki/Songs_MVVM_VIPER/blob/master/Screenshots/listsong.png)
+<img src="https://github.com/akzuki/Songs_MVVM_VIPER/blob/master/Screenshots/listsong.png" height="400">
 
 ## Unit tests
 ViewModels & Presenters & Interactors are covered in unit tests.
